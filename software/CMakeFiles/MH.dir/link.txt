@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MH.dir/src/main.cpp.o CMakeFiles/MH.dir/src/lectorDatos.cpp.o CMakeFiles/MH.dir/src/solucionGreedy.cpp.o CMakeFiles/MH.dir/src/solucionBLM.cpp.o -o MH 
